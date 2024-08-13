@@ -53,7 +53,7 @@ function HandleRules({ formik }) {
           className="btn btn-primary mt-2"
           onClick={handleAddField}
         >
-          + Add Field
+          + Add Rules
         </button>
       </div>
     </div>
